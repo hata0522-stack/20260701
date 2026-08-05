@@ -1,0 +1,457 @@
+{
+  "timestamp": "2026-08-03 21:24:41",
+  "elapsed_seconds": 10.36,
+  "platforms": [
+    "PChome 24h",
+    "momo購物網",
+    "Yahoo購物中心"
+  ],
+  "note": "單位與包裝規格不同，無輸出價差比較與優劣分析",
+  "data": [
+    {
+      "category": "貼身衣物手洗精",
+      "maobao_product": {
+        "brand": "毛寶",
+        "name": "毛寶 貼身衣物手洗精 1000g",
+        "keyword": "毛寶 貼身衣物手洗精",
+        "stores": [
+          {
+            "platform": "PChome 24h",
+            "title": "貼身衣物手洗精-3D SOUSOU(1000g)",
+            "price": 109,
+            "url": "https://24h.pchome.com.tw/prod/DAAK0M-A900AJ8IM",
+            "status": "成功"
+          },
+          {
+            "platform": "momo購物網",
+            "title": "未找到相關商品",
+            "price": 0,
+            "url": "",
+            "status": "無結果"
+          },
+          {
+            "platform": "Yahoo購物中心",
+            "title": "未找到相關商品",
+            "price": 0,
+            "url": "",
+            "status": "無結果"
+          }
+        ]
+      },
+      "competitors": [
+        {
+          "brand": "白蘭",
+          "name": "白蘭 貼身衣物手洗精",
+          "keyword": "白蘭 貼身衣物手洗精",
+          "stores": [
+            {
+              "platform": "PChome 24h",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "momo購物網",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "Yahoo購物中心",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            }
+          ]
+        },
+        {
+          "brand": "妙管家",
+          "name": "妙管家 貼身衣物手洗精",
+          "keyword": "妙管家 貼身衣物手洗精",
+          "stores": [
+            {
+              "platform": "PChome 24h",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "momo購物網",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "Yahoo購物中心",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "洗衣槽清潔劑",
+      "maobao_product": {
+        "brand": "毛寶",
+        "name": "毛寶 洗衣槽去污劑",
+        "keyword": "毛寶 洗衣槽",
+        "stores": [
+          {
+            "platform": "PChome 24h",
+            "title": "毛寶洗衣槽專用去汙劑  300gX1入X12盒  洗衣槽清潔劑",
+            "price": 559,
+            "url": "https://24h.pchome.com.tw/prod/DEDG3L-A900J5MK0",
+            "status": "成功"
+          },
+          {
+            "platform": "momo購物網",
+            "title": "未找到相關商品",
+            "price": 0,
+            "url": "",
+            "status": "無結果"
+          },
+          {
+            "platform": "Yahoo購物中心",
+            "title": "未找到相關商品",
+            "price": 0,
+            "url": "",
+            "status": "無結果"
+          }
+        ]
+      },
+      "competitors": [
+        {
+          "brand": "妙管家",
+          "name": "妙管家 洗衣槽專用清潔劑",
+          "keyword": "妙管家 洗衣槽專用清潔劑",
+          "stores": [
+            {
+              "platform": "PChome 24h",
+              "title": "洗衣槽專用液態清潔劑(霉垢殺手)",
+              "price": 999,
+              "url": "https://24h.pchome.com.tw/prod/DAAZ45-A900J489Q",
+              "status": "成功"
+            },
+            {
+              "platform": "momo購物網",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "Yahoo購物中心",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            }
+          ]
+        },
+        {
+          "brand": "威猛先生",
+          "name": "威猛先生 洗衣槽清潔劑",
+          "keyword": "威猛先生 洗衣槽清潔劑",
+          "stores": [
+            {
+              "platform": "PChome 24h",
+              "title": "洗衣機槽清潔劑250g",
+              "price": 47,
+              "url": "https://24h.pchome.com.tw/prod/DAAZ7T-A900FU6RF",
+              "status": "成功"
+            },
+            {
+              "platform": "momo購物網",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "Yahoo購物中心",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "洗碗精",
+      "maobao_product": {
+        "brand": "毛寶",
+        "name": "毛寶 小蘇打洗碗精",
+        "keyword": "毛寶 小蘇打 洗碗精",
+        "stores": [
+          {
+            "platform": "PChome 24h",
+            "title": "小蘇打洗碗精-無香精(2800gX4入)",
+            "price": 639,
+            "url": "https://24h.pchome.com.tw/prod/DAAZ7Q-A900EVOER",
+            "status": "成功"
+          },
+          {
+            "platform": "momo購物網",
+            "title": "未找到相關商品",
+            "price": 0,
+            "url": "",
+            "status": "無結果"
+          },
+          {
+            "platform": "Yahoo購物中心",
+            "title": "未找到相關商品",
+            "price": 0,
+            "url": "",
+            "status": "無結果"
+          }
+        ]
+      },
+      "competitors": [
+        {
+          "brand": "南僑",
+          "name": "南僑水晶 小蘇打洗碗精",
+          "keyword": "南僑水晶 小蘇打洗碗精",
+          "stores": [
+            {
+              "platform": "PChome 24h",
+              "title": "水晶肥皂食器洗滌液體洗碗精1000mlX1瓶",
+              "price": 169,
+              "url": "https://24h.pchome.com.tw/prod/DAAZ5Y-A9008CK4D",
+              "status": "成功"
+            },
+            {
+              "platform": "momo購物網",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "Yahoo購物中心",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            }
+          ]
+        },
+        {
+          "brand": "橘子工坊",
+          "name": "橘子工坊 洗碗精",
+          "keyword": "橘子工坊 洗碗精",
+          "stores": [
+            {
+              "platform": "PChome 24h",
+              "title": "蔬果碗盤洗碗精補充包 500ml",
+              "price": 149,
+              "url": "https://24h.pchome.com.tw/prod/DAAK8Q-A900HGS5I",
+              "status": "成功"
+            },
+            {
+              "platform": "momo購物網",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "Yahoo購物中心",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "冷洗精",
+      "maobao_product": {
+        "brand": "毛寶",
+        "name": "毛寶 天然冷洗精",
+        "keyword": "毛寶 冷洗精",
+        "stores": [
+          {
+            "platform": "PChome 24h",
+            "title": "抗菌冷洗精-補充包(800g)",
+            "price": 95,
+            "url": "https://24h.pchome.com.tw/prod/DAAK25-A51385189",
+            "status": "成功"
+          },
+          {
+            "platform": "momo購物網",
+            "title": "未找到相關商品",
+            "price": 0,
+            "url": "",
+            "status": "無結果"
+          },
+          {
+            "platform": "Yahoo購物中心",
+            "title": "未找到相關商品",
+            "price": 0,
+            "url": "",
+            "status": "無結果"
+          }
+        ]
+      },
+      "competitors": [
+        {
+          "brand": "白蘭",
+          "name": "白蘭 冷洗精",
+          "keyword": "白蘭 冷洗精",
+          "stores": [
+            {
+              "platform": "PChome 24h",
+              "title": "益生菌長效抗菌親膚手洗精800gX1瓶",
+              "price": 399,
+              "url": "https://24h.pchome.com.tw/prod/DAAK39-A900H9M1Z",
+              "status": "成功"
+            },
+            {
+              "platform": "momo購物網",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "Yahoo購物中心",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            }
+          ]
+        },
+        {
+          "brand": "妙管家",
+          "name": "妙管家 冷洗精",
+          "keyword": "妙管家 冷洗精",
+          "stores": [
+            {
+              "platform": "PChome 24h",
+              "title": "益生菌長效抗菌親膚手洗精800gX1瓶",
+              "price": 399,
+              "url": "https://24h.pchome.com.tw/prod/DAAK39-A900H9M1Z",
+              "status": "成功"
+            },
+            {
+              "platform": "momo購物網",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "Yahoo購物中心",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "濃縮洗衣精",
+      "maobao_product": {
+        "brand": "毛寶",
+        "name": "毛寶 PM2.5防霾抗菌濃縮洗衣精",
+        "keyword": "毛寶 PM2.5 洗衣精",
+        "stores": [
+          {
+            "platform": "PChome 24h",
+            "title": "制臭極淨PM2.5洗衣精(2200gX6入)",
+            "price": 659,
+            "url": "https://24h.pchome.com.tw/prod/DAAK25-A900A6RUQ",
+            "status": "成功"
+          },
+          {
+            "platform": "momo購物網",
+            "title": "未找到相關商品",
+            "price": 0,
+            "url": "",
+            "status": "無結果"
+          },
+          {
+            "platform": "Yahoo購物中心",
+            "title": "未找到相關商品",
+            "price": 0,
+            "url": "",
+            "status": "無結果"
+          }
+        ]
+      },
+      "competitors": [
+        {
+          "brand": "白蘭",
+          "name": "白蘭 濃縮洗衣精",
+          "keyword": "白蘭 濃縮洗衣精",
+          "stores": [
+            {
+              "platform": "PChome 24h",
+              "title": "含熊寶貝馨香精華超濃縮洗衣精補充包_箱購1.6kgx6(多款任選)",
+              "price": 469,
+              "url": "https://24h.pchome.com.tw/prod/DAAK0O-A900HSWGW",
+              "status": "成功"
+            },
+            {
+              "platform": "momo購物網",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "Yahoo購物中心",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            }
+          ]
+        },
+        {
+          "brand": "妙管家",
+          "name": "妙管家 濃縮洗衣精",
+          "keyword": "妙管家 濃縮洗衣精",
+          "stores": [
+            {
+              "platform": "PChome 24h",
+              "title": "濃縮洗衣精 (抗菌) 4000g (4入/箱)",
+              "price": 439,
+              "url": "https://24h.pchome.com.tw/prod/DAAK1Z-A900EOU54",
+              "status": "成功"
+            },
+            {
+              "platform": "momo購物網",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "Yahoo購物中心",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

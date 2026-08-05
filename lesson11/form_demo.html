@@ -77,12 +77,12 @@
                 <label for="name">姓名：</label>
                 <input type="text" id="name" name="name" required>
             </div>
-
+            
             <div class="form-group">
                 <label for="email">電子郵件：</label>
                 <input type="email" id="email" name="email" required>
             </div>
-
+            
             <div class="form-group">
                 <label for="country">國家：</label>
                 <select id="country" name="country" required>
@@ -94,17 +94,17 @@
                     <option value="USA">美國</option>
                 </select>
             </div>
-
+            
             <div class="form-group">
                 <label>
                     <input type="checkbox" id="subscribe" name="subscribe">
                     訂閱電子報
                 </label>
             </div>
-
+            
             <button type="submit" id="submit">提交</button>
         </form>
-
+        
         <div class="success-message" id="successMessage">
             <h2>提交成功！</h2>
             <p>感謝您的註冊</p>
@@ -114,11 +114,11 @@
     <script>
         document.getElementById('registrationForm').addEventListener('submit', function(e) {
             e.preventDefault();
-
+            
             // 隱藏表單，顯示成功訊息
             document.getElementById('registrationForm').style.display = 'none';
             document.getElementById('successMessage').style.display = 'block';
-
+            
             // 模擬頁面載入完成
             setTimeout(() => {
                 document.title = '提交成功';

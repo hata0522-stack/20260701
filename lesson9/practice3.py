@@ -30,7 +30,7 @@ def main():
       print(f"文章數量: {len(articles)}")
 
       # 取出前 5 篇的文章標題並印出
-      for article in articles[:5]:
+      for article in articles[-5:]:
           print(f"  - {article.inner_text()}")
 
       # 拍攝整頁截圖並儲存至本機
