@@ -1,0 +1,9 @@
+step 1 action: 開啟考試頁面，確認 114100 考試載入
+step 2 action: 確認科目列表中包含膳食療養學
+step 3 action: 下載試題 PDF (641077 bytes)
+step 4 action: 下載答案 PDF (44565 bytes)
+step 5 action: 從 PDF 萃取文字，試題 6945 字元，答案 418 字元
+step 6 action: 合併試題與答案為 markdown 檔案 (/Users/roberthsu2003/Documents/GitHub/2026_06_17_playwright/outputs/exam_scraper/final_runs/run_1/膳食療養學_試題與答案整合.md)
+step 7 action: Markdown 檔案包含 40 題測驗題
+
+FINAL_RESPONSE: 成功下載 膳食療養學 試題與答案，整合為 膳食療養學_試題與答案整合.md，共 40 題

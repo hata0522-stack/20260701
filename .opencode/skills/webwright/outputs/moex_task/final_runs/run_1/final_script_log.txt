@@ -1,0 +1,16 @@
+step 1 action: open page https://wwwq.moex.gov.tw/exam/wFrmExamQandASearch.aspx?y=2025&e=114100
+Title: 考畢試題查詢平臺-考選部
+URL: https://wwwq.moex.gov.tw/exam/wFrmExamQandASearch.aspx?y=2025&e=114100
+Selected exam: 114100 - 114年第二次專技人員高等考試營養師、護理師、社會工作師考試、114年專技人員高等考試心理師、法醫師、語言治療師、聽力師、牙體技術師、公共衛...
+step 2 action: locate subject row: 生理學與生物化學
+Subject '生理學與生物化學' checkbox visible: True
+Question href: wHandExamQandA_File.ashx?t=Q&code=114100&c=101&s=0103&q=1
+Answer href: wHandExamQandA_File.ashx?t=S&code=114100&c=101&s=0103&q=1
+step 3 action: download question PDF from https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114100&c=101&s=0103&q=1
+Question PDF: 114100_3101.pdf, 652877 bytes
+step 4 action: download answer PDF from https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=S&code=114100&c=101&s=0103&q=1
+Answer PDF: 114100_ANS3101.pdf, 44868 bytes
+
+FINAL_RESPONSE: 已下載「生理學與生物化學」科目資料
+  試題: 114100_3101.pdf (652877 bytes) - 有效
+  答案: 114100_ANS3101.pdf (44868 bytes) - 有效

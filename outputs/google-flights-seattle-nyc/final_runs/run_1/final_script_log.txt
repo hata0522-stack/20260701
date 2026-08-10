@@ -1,0 +1,8 @@
+step 1 action: 開啟 Google Flights 頁面
+step 2 action: 設定出發地為 Seattle
+step 3 action: 設定目的地為 New York
+step 4 action: 設定出發日期為 2026/08/15
+step 5 action: 8/15 最低票價: NT$12244
+
+FINAL_RESPONSE: 8/15 西雅圖→紐約最低票價: NT$12244
+step 6 action: 最終結果: 8/15 西雅圖→紐約最低票價: NT$12244

@@ -71,3 +71,8 @@ https://www.youtube.com/live/Odo8to-cmG4?si=CZ2gnBCsx1B4wBL6
 https://www.youtube.com/watch?v=pHnSsK8EMFU
 
 ---
+
+## 2026_08_05_晚上
+https://www.youtube.com/watch?v=ydqnEjm2LiU
+
+---

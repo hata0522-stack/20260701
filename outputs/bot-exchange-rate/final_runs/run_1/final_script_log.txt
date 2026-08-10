@@ -1,0 +1,6 @@
+step 1 action: 開啟臺灣銀行牌告匯率官網: https://rate.bot.com.tw/xrt?Lang=zh-TW
+step 2 action: 美金現鈔買入匯率 (USD Cash Buying Rate): 31.625
+step 3 action: 美金現鈔賣出匯率 (USD Cash Selling Rate): 32.295
+
+FINAL_RESPONSE: 美金現鈔買入: 31.625, 美金現鈔賣出: 32.295
+step 4 action: 最終結果: 美金現鈔買入: 31.625, 美金現鈔賣出: 32.295

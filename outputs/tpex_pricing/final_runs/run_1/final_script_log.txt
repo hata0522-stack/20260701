@@ -1,0 +1,11 @@
+step 1 action: 開啟目標頁面完成 -> URL: https://www.tpex.org.tw/zh-tw/mainboard/trading/info/pricing.html | TITLE: 上櫃股票行情 - 證券櫃檯買賣中心
+step 2 action: 等待表格 DOM 完成 (wait_for_selector)，目前表格資料列數: 10 (每頁顯示數)
+step 2 action: 等待行情 API 回應完成 (expect_response): https://www.tpex.org.tw/www/zh-tw/afterTrading/dailyQuotes | date=20260805 | stat=ok
+step 3 action: API 回傳完整資料: date=20260805 | 欄位數=19 | 資料列數=10252 | subtitle='上櫃家數: 890家&nbsp;&nbsp;&nbsp;總成交金額: 184,416,976,881元&nbsp;&nbsp;&nbsp;總成交股數: 885,679,883股&nbsp;&nbsp;&nbsp;總成交筆數: 889,261筆'
+step 3 action: 需求欄位對照: 股票代號<-代號; 股票名稱<-名稱; 成交價<-收盤; 漲跌<-漲跌; 開盤價<-開盤; 最高價<-最高; 最低價<-最低; 成交量<-成交股數
+step 3 action: 文字清理範例: 原始成交價字串='42.42' -> 清理後='42.42'
+step 4 action: DOM 表格首頁 10 列與 API JSON 前 10 列 一致性比對: 相符 10/10
+step 5 action: 已匯出 CSV: /Users/roberthsu2003/Documents/GitHub/2026_06_17_playwright/outputs/tpex_pricing/tpex_pricing.csv | 列數=10252 | 欄位=['股票代號', '股票名稱', '成交價', '漲跌', '開盤價', '最高價', '最低價', '成交量'] | utf-8-sig BOM=True
+step 5 action: 讀回驗證 CSV: shape=(10252, 8) | 前3列代號=['006201', '00679B', '00687B']
+
+FINAL_RESPONSE: 日期=20260805 上櫃家數=890 資料筆數=10252 範例列(第1筆)={'股票代號': '006201', '股票名稱': '元大富櫃50', '成交價': '42.42', '漲跌': '+1.22', '開盤價': '43.18', '最高價': '43.44', '最低價': '42.30', '成交量': '667,697'}

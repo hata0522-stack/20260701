@@ -1,0 +1,28 @@
+step 1 action: open THSR website https://www.thsrc.com.tw/
+step 1 action: accept cookie consent
+step 2 action: select departure station 台北
+step 3 action: select arrival station 台中
+step 4 action: check departure date 2026/07/29
+step 5 action: set departure time 19:00
+step 6 action: click 查詢 search button
+step 6 action: search results loaded
+step 7 action: extracted 5 train schedules
+
+========================================
+台灣高鐵 台北→台中 單程票
+日期: 2026/07/29 (三)
+出發時間: 19:00
+========================================
+  19:11 → 20:15 (01:04) | 車次: 0853 | 自由座車廂: 8-12
+  19:21 → 20:23 (01:02) | 車次: 0679 | 自由座車廂: 10-12
+  19:31 → 20:18 (00:47) | 車次: 0157 | 自由座車廂: 10-12
+  19:46 → 20:46 (01:00) | 車次: 0681 | 自由座車廂: 8-12
+  19:51 → 20:38 (00:47) | 車次: 1253 | 自由座車廂: 10-12
+
+票價資訊:
+	全票	孩童票/敬老票/愛心票
+標準車廂	$700	$350
+商務車廂	$1250	$625
+自由座車廂	$675	$335
+
+FINAL_RESPONSE: 共 5 班車次，區間 19:11~19:51

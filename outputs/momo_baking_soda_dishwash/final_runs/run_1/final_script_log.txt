@@ -1,0 +1,40 @@
+step 1 action: opened momo home: https://www.momoshop.com.tw/main/Main.jsp title=momo購物網 - 好評推薦 - 2026年8月
+step 2 action: searched keyword '毛寶 小蘇打洗碗精 無香精' -> url=https://www.momoshop.com.tw/search/%E6%AF%9B%E5%AF%B6%20%E5%B0%8F%E8%98%87%E6%89%93%E6%B4%97%E7%A2%97%E7%B2%BE%20%E7%84%A1%E9%A6%99%E7%B2%BE?_isFuzzy=0&searchType=1
+step 3 action: our product recorded: {"brand": "毛寶", "name": "【毛寶】小蘇打洗碗精-無香精(2800gX4入)", "capacity_title": "2800gX4入", "capacity_range": "5001ml以上", "price": "639", "search_price": "639", "i_code": "10010668"}
+step 4 action: searched keyword '小蘇打洗碗精' -> url=https://www.momoshop.com.tw/search/%E5%B0%8F%E8%98%87%E6%89%93%E6%B4%97%E7%A2%97%E7%B2%BE?_isFuzzy=0&searchType=1
+step 5 action: collected 5 competitors (skipped 0 our-brand items); raw search items used: idx=[0, 1, 2, 3, 4]
+step 5 action: competitor #1: {"rank": 1, "brand": "Pril 淨麗", "name": "【Pril 淨麗】小蘇打高效/植純萃洗碗精/蔬果洗滌劑 750mlx10瓶/箱(檸檬/草本/檸檬草 3款任選)", "capacity_title": "750mlx10瓶", "capacity_range": "5001ml以上", "price": "899"}
+step 5 action: competitor #2: {"rank": 2, "brand": "Orange house 橘子工坊", "name": "【Orange house 橘子工坊】蔬果碗盤洗碗精2瓶+4補(去油淨味/溫和除菌/去垢酵素 三款可選)", "capacity_title": "2瓶+4補", "capacity_range": " 401~600ml、601~800ml", "price": "575"}
+step 5 action: competitor #3: {"rank": 3, "brand": "Pril 淨麗", "name": "【Pril 淨麗】小蘇打植萃洗碗精/蔬果洗滌劑補充包 1000mlx10包/箱(檸檬/草本/檸檬草 /天然環保/強力去油)", "capacity_title": "1000mlx10包", "capacity_range": "5001ml以上", "price": "949"}
+step 5 action: competitor #4: {"rank": 4, "brand": "Orange house 橘子工坊", "name": "【Orange house 橘子工坊】蔬果碗盤洗碗精補充包6入(去油淨味/溫和除菌/去垢酵素 三款可選)", "capacity_title": "6入", "capacity_range": " 401~600ml", "price": "669"}
+step 5 action: competitor #5: {"rank": 5, "brand": "Pril 淨麗", "name": "【Pril 淨麗】小蘇打高效/植純萃洗碗精1瓶+1包(檸檬/草本/檸檬草 3款選)", "capacity_title": "1瓶+1包", "capacity_range": "1601~1800ml", "price": "249"}
+
+FINAL_RESPONSE:
+# 毛寶小蘇打洗碗精 vs 競品 價格對比（momo 購物網，2026-08-03）
+
+**我方產品：** 【毛寶】小蘇打洗碗精-無香精(2800gX4入)｜促銷價 **NT$639**｜容量 2800gX4入（momo 容量區間：5001ml以上）
+
+| 排名 | 品牌 | 商品名稱 | 容量（依標題） | 促銷價格 |
+|------|------|----------|----------------|----------|
+| 我方 | 毛寶 | 【毛寶】小蘇打洗碗精-無香精(2800gX4入) | 2800gX4入 | **NT$639** |
+| #1 | Pril 淨麗 | 【Pril 淨麗】小蘇打高效/植純萃洗碗精/蔬果洗滌劑 750mlx10瓶/箱(檸檬/草本/檸檬草 3款任選) | 750mlx10瓶 | NT$899 |
+| #2 | Orange house 橘子工坊 | 【Orange house 橘子工坊】蔬果碗盤洗碗精2瓶+4補(去油淨味/溫和除菌/去垢酵素 三款可選) | 2瓶+4補 | NT$575 |
+| #3 | Pril 淨麗 | 【Pril 淨麗】小蘇打植萃洗碗精/蔬果洗滌劑補充包 1000mlx10包/箱(檸檬/草本/檸檬草 /天然環保/強力去油) | 1000mlx10包 | NT$949 |
+| #4 | Orange house 橘子工坊 | 【Orange house 橘子工坊】蔬果碗盤洗碗精補充包6入(去油淨味/溫和除菌/去垢酵素 三款可選) | 6入 | NT$669 |
+| #5 | Pril 淨麗 | 【Pril 淨麗】小蘇打高效/植純萃洗碗精1瓶+1包(檸檬/草本/檸檬草 3款選) | 1瓶+1包 | NT$249 |
+
+## 價格競爭力觀察
+
+- 對比 **Pril 淨麗**（NT$899）：我方便宜 **NT$260**。
+- 對比 **Orange house 橘子工坊**（NT$575）：我方每組貴 **NT$64**，但需看單位容量換算。
+- 對比 **Pril 淨麗**（NT$949）：我方便宜 **NT$310**。
+- 對比 **Orange house 橘子工坊**（NT$669）：我方便宜 **NT$30**。
+- 對比 **Pril 淨麗**（NT$249）：我方每組貴 **NT$390**，但需看單位容量換算。
+
+### 建議
+1. **單位價格比對：** 我方為「2800g × 4入」組合裝（約 NT$639 / 4瓶 = 每瓶約 NT$160），相較單瓶裝競品（如 Pril 淨麗 750ml NT$129），單瓶單價偏高，建議對外主打『單瓶最低價』或以『4入家庭組更划算（單瓶僅約 NT$160）』溝通。
+2. **組合規格溝通：** 競品多以 750ml~1000ml 的 10 瓶/10 包大箱組合促銷（NT$899~949），我方 2800g 大容量＋無香精配方在『低敏／無香精』與『大容量家庭裝』定位上仍有差異化空間。
+3. **價格帶定位：** 競品單品多在 NT$129~249（小瓶／補充包），組合裝 NT$575~949。我方 NT$639 落在中段；若要提升價格競爭力，可搭配滿額折扣（如現有『滿999折70』）或贈品策略，讓單瓶等效價低於 NT$150。
+4. **主打訴求：** 我方是搜尋中少數『無香精』選項，建議強調『無香精、敏感肌友善』，避開與 Pril／橘子工坊的價格戰，改打配方與容量 CP 值。
+
+step 6 action: markdown comparison table written to /Users/roberthsu2003/Documents/GitHub/2026_06_17_playwright/outputs/momo_baking_soda_dishwash/final_runs/run_1/final_comparison.md
