@@ -1,0 +1,73 @@
+{
+  "timestamp": "2026-08-10 21:08:09",
+  "elapsed_seconds": 4.76,
+  "platforms": [
+    "PChome 24h",
+    "momo購物網",
+    "Yahoo購物中心"
+  ],
+  "note": "單位與包裝規格不同，無輸出價差比較與優劣分析",
+  "data": [
+    {
+      "category": "貼身衣物手洗精",
+      "maobao_product": {
+        "brand": "毛寶",
+        "name": "毛寶 貼身衣物手洗精 1000g",
+        "keyword": "毛寶 貼身衣物手洗精",
+        "stores": [
+          {
+            "platform": "PChome 24h",
+            "title": "貼身衣物手洗精1000gx2入(果漾西西里)",
+            "price": 258,
+            "url": "https://24h.pchome.com.tw/prod/DAAZ7Q-1900FOTV0",
+            "status": "成功"
+          },
+          {
+            "platform": "momo購物網",
+            "title": "【毛寶】貼身衣物手洗精-玫瑰-SOUSOU_onpack(1000g)",
+            "price": 109,
+            "url": "",
+            "status": "成功"
+          },
+          {
+            "platform": "Yahoo購物中心",
+            "title": "毛寶X SOUSOU聯名期間限定",
+            "price": 109,
+            "url": "https://tw.buy.yahoo.com/gdsale/毛寶-貼身衣物手洗精1000g-果漾西西里-8845734.html",
+            "status": "成功"
+          }
+        ]
+      },
+      "competitors": [
+        {
+          "brand": "白蘭",
+          "name": "白蘭 貼身衣物手洗精",
+          "keyword": "白蘭 貼身衣物手洗精",
+          "stores": [
+            {
+              "platform": "PChome 24h",
+              "title": "未找到相關商品",
+              "price": 0,
+              "url": "",
+              "status": "無結果"
+            },
+            {
+              "platform": "momo購物網",
+              "title": "【白蘭】酵素除菌手洗精 520g 1入 || 清新小蒼蘭 私密衣物抗菌手洗精 衣物清潔 貼身衣物 去漬 消臭 ||",
+              "price": 69,
+              "url": "",
+              "status": "成功"
+            },
+            {
+              "platform": "Yahoo購物中心",
+              "title": "白蘭 酵素除菌手洗精 520G",
+              "price": 79,
+              "url": "https://tw.buy.yahoo.com/gdsale/白蘭-酵素除菌手洗精-520G-11223950.html",
+              "status": "成功"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
