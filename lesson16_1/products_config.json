@@ -1,0 +1,271 @@
+{
+  "project_name": "毛寶企業產品與競品價格每日監控系統",
+  "version": "3.0.0",
+  "platforms": [
+    {
+      "id": "pchome",
+      "name": "PChome 24h"
+    },
+    {
+      "id": "momo",
+      "name": "momo購物網"
+    },
+    {
+      "id": "yahoo",
+      "name": "Yahoo購物中心"
+    }
+  ],
+  "monitor_products": [
+    {
+      "id": "P001",
+      "category": "洗衣皂晶球",
+      "maobao_product": {
+        "name": "毛寶小蘇打植萃香氛洗衣皂晶球",
+        "keyword": "毛寶 小蘇打 洗衣皂晶球"
+      },
+      "competitors": [
+        {
+          "brand": "汰客",
+          "name": "汰客 洗衣皂晶球",
+          "keyword": "汰客 洗衣膠囊"
+        },
+        {
+          "brand": "白蘭",
+          "name": "白蘭 洗衣皂晶球",
+          "keyword": "白蘭 洗衣球"
+        },
+        {
+          "brand": "好來美",
+          "name": "好來美 洗衣皂晶球",
+          "keyword": "好來美 洗衣球"
+        }
+      ]
+    },
+    {
+      "id": "P002",
+      "category": "衣物抗菌水",
+      "maobao_product": {
+        "name": "毛寶葳香衣物抗菌水",
+        "keyword": "毛寶 葳香 衣物抗菌水"
+      },
+      "competitors": [
+        {
+          "brand": "白蘭",
+          "name": "白蘭 衣物抗菌水",
+          "keyword": "白蘭 衣物抗菌"
+        },
+        {
+          "brand": "好來美",
+          "name": "好來美 衣物抗菌水",
+          "keyword": "好來美 衣物抗菌"
+        },
+        {
+          "brand": "汰客",
+          "name": "汰客 衣物抗菌水",
+          "keyword": "汰客 衣物抗菌"
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "category": "粉領精",
+      "maobao_product": {
+        "name": "毛寶粉領精",
+        "keyword": "毛寶 粉領精"
+      },
+      "competitors": [
+        {
+          "brand": "汰客",
+          "name": "汰客 貼身衣物洗劑",
+          "keyword": "汰客 貼身衣物手洗精"
+        },
+        {
+          "brand": "白蘭",
+          "name": "白蘭 貼身衣物洗劑",
+          "keyword": "白蘭 貼身衣物手洗精"
+        },
+        {
+          "brand": "好來美",
+          "name": "好來美 貼身衣物洗劑",
+          "keyword": "好來美 貼身衣物手洗精"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "category": "食器蔬果洗滌液體皂",
+      "maobao_product": {
+        "name": "毛寶果淨酵素食器蔬果洗滌液體皂",
+        "keyword": "毛寶 果淨酵素 洗碗精"
+      },
+      "competitors": [
+        {
+          "brand": "白蘭",
+          "name": "白蘭 洗碗精",
+          "keyword": "白蘭 洗碗精"
+        },
+        {
+          "brand": "汰客",
+          "name": "汰客 洗碗精",
+          "keyword": "汰客 洗碗精"
+        },
+        {
+          "brand": "好來美",
+          "name": "好來美 洗碗精",
+          "keyword": "好來美 洗碗精"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "category": "冷洗精",
+      "maobao_product": {
+        "name": "毛寶冷洗精",
+        "keyword": "毛寶 冷洗精"
+      },
+      "competitors": [
+        {
+          "brand": "白蘭",
+          "name": "白蘭 冷洗精",
+          "keyword": "白蘭 冷洗精"
+        },
+        {
+          "brand": "好來美",
+          "name": "好來美 冷洗精",
+          "keyword": "好來美 冷洗精"
+        },
+        {
+          "brand": "汰客",
+          "name": "汰客 冷洗精",
+          "keyword": "汰客 冷洗精"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "category": "洗衣槽清潔劑",
+      "maobao_product": {
+        "name": "毛寶洗衣槽清潔劑",
+        "keyword": "毛寶 洗衣槽"
+      },
+      "competitors": [
+        {
+          "brand": "白蘭",
+          "name": "白蘭 洗衣槽清潔劑",
+          "keyword": "白蘭 洗衣槽清潔劑"
+        },
+        {
+          "brand": "汰客",
+          "name": "汰客 洗衣槽清潔劑",
+          "keyword": "汰客 洗衣槽清潔劑"
+        },
+        {
+          "brand": "好來美",
+          "name": "好來美 洗衣槽清潔劑",
+          "keyword": "好來美 洗衣槽清潔劑"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "category": "防蚊液",
+      "maobao_product": {
+        "brand": "小鹿山丘",
+        "name": "小鹿山丘防蚊液",
+        "keyword": "小鹿山丘 防蚊液"
+      },
+      "competitors": [
+        {
+          "brand": "花王",
+          "name": "花王 防蚊液",
+          "keyword": "花王 防蚊液"
+        },
+        {
+          "brand": "曼秀雷敦",
+          "name": "曼秀雷敦 防蚊液",
+          "keyword": "曼秀雷敦 防蚊液"
+        },
+        {
+          "brand": "舒拿",
+          "name": "舒拿 防蚊液",
+          "keyword": "舒拿 防蚊液"
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "category": "浴廁清潔劑",
+      "maobao_product": {
+        "name": "毛寶浴廁清潔劑",
+        "keyword": "毛寶 浴廁清潔劑"
+      },
+      "competitors": [
+        {
+          "brand": "白蘭",
+          "name": "白蘭 浴廁清潔劑",
+          "keyword": "白蘭 浴廁清潔劑"
+        },
+        {
+          "brand": "汰客",
+          "name": "汰客 浴廁清潔劑",
+          "keyword": "汰客 浴廁清潔劑"
+        },
+        {
+          "brand": "好來美",
+          "name": "好來美 浴廁清潔劑",
+          "keyword": "好來美 浴廁清潔劑"
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "category": "地板清潔劑",
+      "maobao_product": {
+        "name": "毛寶地板清潔劑",
+        "keyword": "毛寶 地板清潔劑"
+      },
+      "competitors": [
+        {
+          "brand": "白蘭",
+          "name": "白蘭 地板清潔劑",
+          "keyword": "白蘭 地板清潔劑"
+        },
+        {
+          "brand": "汰客",
+          "name": "汰客 地板清潔劑",
+          "keyword": "汰客 地板清潔劑"
+        },
+        {
+          "brand": "好來美",
+          "name": "好來美 地板清潔劑",
+          "keyword": "好來美 地板清潔劑"
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "category": "熱水瓶洗淨劑",
+      "maobao_product": {
+        "name": "毛寶熱水瓶洗淨劑",
+        "keyword": "毛寶 熱水瓶洗淨劑"
+      },
+      "competitors": [
+        {
+          "brand": "白蘭",
+          "name": "白蘭 熱水瓶洗淨劑",
+          "keyword": "白蘭 熱水瓶洗淨劑"
+        },
+        {
+          "brand": "汰客",
+          "name": "汰客 熱水瓶洗淨劑",
+          "keyword": "汰客 熱水瓶洗淨劑"
+        },
+        {
+          "brand": "好來美",
+          "name": "好來美 熱水瓶洗淨劑",
+          "keyword": "好來美 熱水瓶洗淨劑"
+        }
+      ]
+    }
+  ]
+}
